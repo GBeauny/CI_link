@@ -14,4 +14,4 @@
 - - https://appharbor.com/ #net
 - - http://tfs.visualstudio.com/ #net
 - - http://www.cloudbees.com/
-- - http://www.atlassian.com/software/bamboo/overview://github.com/GBeauny/CI_link.gitxport GOPATH=$HOME/go
+- - http://www.atlassian.com/software/bamboo/overview
